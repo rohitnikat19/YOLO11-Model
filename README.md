@@ -51,5 +51,5 @@ The objective of this assignment is to implement object detection using a pre-tr
 ---
 
 ## Declaration
-I, **Nilambari Mahajan**, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines. The code is uploaded on my GitHub repository account, and the repository link is provided below:
+I, **Rohit Nikat**, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines. The code is uploaded on my GitHub repository account, and the repository link is provided below:
 
